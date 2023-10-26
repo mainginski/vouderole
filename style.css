@@ -1,11 +1,9 @@
-body {
-  font-family: sans-serif;
+.html {
   background: #1abc9c;
-  height: 100%;
 }
 
 .logo {
-  display: flex;
-  justify-content: center;
-  height: 100%;
+  position: absolute;
+  top: calc(50% - 46px);
+  left: calc(50% - 87px);
 }
